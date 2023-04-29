@@ -2,7 +2,7 @@ import random
 
 num_equipos = 16
 direcciones = []
-for i in range(4):
+for i in range(16):
     direccion = input(f"Ingrese nombre del equipo {i+1}: ")
     direcciones.append(direccion)
 
